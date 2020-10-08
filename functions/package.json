@@ -1,7 +1,7 @@
 {
-	"name": "slac2019",
-	"version": "5.7.1",
-	"description": "Code for SLAC 2019 (9th edition of SLAC)",
+	"name": "slac2020",
+	"version": "6.0.0",
+	"description": "Code for SLAC 2020 (10th edition of SLAC)",
 	"main": "index.js",
 	"scripts": {
 		"lint": "eslint .",
