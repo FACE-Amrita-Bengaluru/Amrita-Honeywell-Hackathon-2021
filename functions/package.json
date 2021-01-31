@@ -15,10 +15,10 @@
 		"ejs": "^3.1.5",
 		"express": "^4.17.1",
 		"firebase-admin": "^9.2.0",
-		"firebase-functions": "^3.13.0"
+		"firebase-functions": "^3.13.1"
 	},
 	"devDependencies": {
-		"eslint": "^7.16.0",
+		"eslint": "^7.19.0",
 		"eslint-plugin-promise": "^4.2.1"
 	},
 	"engines": {
