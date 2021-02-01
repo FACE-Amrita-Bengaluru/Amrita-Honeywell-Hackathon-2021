@@ -1,4 +1,4 @@
-# :office: SLAC-2020
+# :office: Amrita-Honeywell-Hackathon-2021
 
 An event website cum portal made originally for SLAC 2020 at Amrita University based on HTML5, CSS3, Bootstrap 4, JS, Node.js, Express.js Firebase Hosting, Firebase Cloud Functions, Firebase Cloud Firestore.
 
