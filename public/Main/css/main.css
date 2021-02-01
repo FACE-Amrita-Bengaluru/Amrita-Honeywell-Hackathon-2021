@@ -1693,7 +1693,7 @@ footer .newsletter_form .form-control {
 .cover_slider .cover_item .slider_content .slider-content-inner .cover-xl-text {
 	opacity: 0;
 	text-transform: uppercase;
-	font-size: 90px;
+	font-size: 65px;
 	font-weight: 900;
 	line-height: 1.1;
 	color: #163ca9;
@@ -1953,7 +1953,7 @@ footer .newsletter_form .form-control {
 		.slider_content
 		.slider-content-inner
 		.cover-xl-text {
-		font-size: 46px;
+		font-size: 27px;
 	}
 	.cover_slider
 		.cover_item
