@@ -59,6 +59,7 @@ p {
 	line-height: 24px;
 	font-weight: 400;
 	color: #4e4a4a;
+	text-align: justify;
 }
 p:last-child {
 	margin-bottom: 0;
@@ -2019,6 +2020,7 @@ footer .newsletter_form .form-control {
 	transition: all 0.4s ease-in-out;
 }
 .icon_box_one .content p {
+	text-align: left;
 	-webkit-transition: all 0.4s ease-in-out;
 	transition: all 0.4s ease-in-out;
 }
@@ -2075,6 +2077,7 @@ footer .newsletter_form .form-control {
 	margin-top: 6px;
 }
 .icon_box_two .content p {
+	text-align: left;
 	font-weight: 500;
 	color: #4e4a4a;
 }
