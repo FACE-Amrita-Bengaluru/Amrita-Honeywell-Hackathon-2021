@@ -14,7 +14,7 @@ $(document).ready(function () {
 		}
 	});
 	$(".counter").counterUp({ delay: 5, time: 3000 });
-	$(".countdown").countdown("2021/02/10", function (event) {
+	$(".countdown").countdown("2021/02/24 17:00:00", function (event) {
 		$(this).html(
 			event.strftime(
 				"<div>%D <span>Days</span></div>  <div>%H<span>Hours</span></div> <div>%M<span>Minutes</span></div> <div>%S<span>Seconds</span></div>"
